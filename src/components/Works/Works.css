@@ -1,0 +1,74 @@
+.worksSection {
+    padding: 2rem;
+    text-align: center;
+    background-color: none; 
+    color: #fff;
+  }
+  
+  .worksTitle {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .workDesc {
+    font-size: 1.2rem;
+    color: #ccc; /* Slightly lighter gray for description */
+    margin-bottom: 2rem;
+  }
+  
+  .workItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+  }
+  
+  .workItem {
+    background-color: #222; /* Dark gray card background */
+    border-radius: 8px;
+    padding: 1.5rem;
+    max-width: 300px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Soft shadow */
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .workItem:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(255, 215, 0, 0.4); /* Yellow shadow on hover */
+  }
+  
+  .projectTitle {
+    font-size: 1.5rem;
+    color: yellow; /* Yellow for project titles */
+    margin-bottom: 0.5rem;
+  }
+  
+  .projectDesc {
+    font-size: 1rem;
+    color: #ddd; /* Lighter gray for project description */
+    margin-bottom: 1rem;
+  }
+  
+  .projectLinks {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .projectLink {
+    color: yellow; /* Yellow for links */
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .projectLink:hover {
+    color: #fff; /* White on hover */
+  }
+  
+  .projectLink svg {
+    margin-right: 0.5rem;
+  }
+  
