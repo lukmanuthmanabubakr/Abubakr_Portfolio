@@ -11,13 +11,15 @@ const Works = () => {
       </p>
       <div className="workItems">
         <div className="workItem">
-          <h3 className="projectTitle">Dad Joke Generator</h3>
+          <h3 className="projectTitle">Greenwoodsy</h3>
           <p className="projectDesc">
-            A fun app that generates random dad jokes to brighten your day!
+            Whether you're a beginner or an experienced investor, we offer the
+            tools and resources to help you grow your wealth efficiently and
+            confidently. Dashboard.
           </p>
           <div className="projectLinks">
             <a
-              href="https://dad-joke-generator-gilt.vercel.app/"
+              href="http://www.greenwoodsy.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
@@ -25,7 +27,7 @@ const Works = () => {
               <FaExternalLinkAlt /> Live Demo
             </a>
             <a
-              href="https://github.com/lukmanuthmanabubakr/Dad-joke-generator"
+              href="https://github.com/lukmanuthmanabubakr/Greenwood"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
@@ -62,7 +64,8 @@ const Works = () => {
         <div className="workItem">
           <h3 className="projectTitle">BrainTick</h3>
           <p className="projectDesc">
-            An interactive quiz platform built with React, offering a fun way to test your knowledge
+            An interactive quiz platform built with React, offering a fun way to
+            test your knowledge
           </p>
           <div className="projectLinks">
             <a
@@ -86,7 +89,7 @@ const Works = () => {
         <div className="workItem">
           <h3 className="projectTitle">InspireMe Quotes</h3>
           <p className="projectDesc">
-          A refreshing quote generator that offers you inspiring.
+            A refreshing quote generator that offers you inspiring.
           </p>
           <div className="projectLinks">
             <a
@@ -110,7 +113,7 @@ const Works = () => {
         <div className="workItem">
           <h3 className="projectTitle">ColorPeek</h3>
           <p className="projectDesc">
-          A sleek tool to explore and check colors with precision!
+            A sleek tool to explore and check colors with precision!
           </p>
           <div className="projectLinks">
             <a
