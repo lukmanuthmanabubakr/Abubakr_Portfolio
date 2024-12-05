@@ -50,9 +50,9 @@ const Contact = () => {
       <div id="clients" className="clients">
         <h1 className="contactPageTitle">My Clients</h1>
         <p className="clientDescription">
-          I have had the opportunity to work with a diverse group of companies.
-          Some of the notable companies I have worked with are listed below,
-          along with the communities I belong to.
+          I have had the opportunity to work as a freelancer with a diverse
+          range of companies. Below are some of the notable companies I've
+          collaborated with, along with the communities I am a part of.
         </p>
 
         <div className="clientImages">
@@ -81,8 +81,18 @@ const Contact = () => {
         )}
 
         <form className="contactForm" ref={form} onSubmit={sendEmail}>
-          <input type="text" className="name" placeholder="Your name" name="from_name"/>
-          <input type="email" className="email" placeholder="Your email" name="from_email"/>
+          <input
+            type="text"
+            className="name"
+            placeholder="Your name"
+            name="from_name"
+          />
+          <input
+            type="email"
+            className="email"
+            placeholder="Your email"
+            name="from_email"
+          />
           <textarea
             name="message"
             rows="5"

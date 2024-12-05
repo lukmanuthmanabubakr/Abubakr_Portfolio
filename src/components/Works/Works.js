@@ -37,14 +37,15 @@ const Works = () => {
           </div>
         </div>
         <div className="workItem">
-          <h3 className="projectTitle">Loan Calculator</h3>
+          <h3 className="projectTitle">PlanIt</h3>
           <p className="projectDesc">
-            A handy tool that helps you calculate monthly loan payments quickly
-            and easily!
+            PlanIt helps you turn goals into accomplishments with smart tools,
+            innovative features, and a simple interface. Enable JavaScript to
+            explore its full potential!
           </p>
           <div className="projectLinks">
             <a
-              href="https://loan-calculator-phi.vercel.app/"
+              href="https://planitfy.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
@@ -62,14 +63,15 @@ const Works = () => {
           </div>
         </div>
         <div className="workItem">
-          <h3 className="projectTitle">BrainTick</h3>
+          <h3 className="projectTitle">EarthFi</h3>
           <p className="projectDesc">
-            An interactive quiz platform built with React, offering a fun way to
-            test your knowledge
+            EarthFi uses Web3 technology to transform waste into valuable
+            resources, fostering a sustainable, regenerative, and vibrant global
+            economy for the future.
           </p>
           <div className="projectLinks">
             <a
-              href="https://react-quiz-app-ruddy-six.vercel.app/"
+              href="https://www.earthfi.xyz/"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
@@ -77,23 +79,26 @@ const Works = () => {
               <FaExternalLinkAlt /> Live Demo
             </a>
             <a
-              href="https://github.com/lukmanuthmanabubakr/react-quiz-app"
+              href="https://www.earthfi.xyz/"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
             >
-              <FaGithub /> GitHub Repo
+              <FaGithub /> Sold Out
             </a>
           </div>
         </div>
         <div className="workItem">
-          <h3 className="projectTitle">InspireMe Quotes</h3>
+          <h3 className="projectTitle">SkillSync</h3>
           <p className="projectDesc">
-            A refreshing quote generator that offers you inspiring.
+            A platform that connects individuals looking to learn new skills
+            with experts willing to teach. Users can create profiles as learners
+            or mentors, book live sessions, and exchange knowledge. Features
+            include video call integration, scheduling, and user reviews.
           </p>
           <div className="projectLinks">
             <a
-              href="https://quote-generator-seven-steel.vercel.app/"
+              href="https://abubakr-portfolio.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
@@ -101,19 +106,22 @@ const Works = () => {
               <FaExternalLinkAlt /> Live Demo
             </a>
             <a
-              href="https://github.com/lukmanuthmanabubakr/quote-generator"
+              href="https://abubakr-portfolio.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
             >
-              <FaGithub /> GitHub Repo
+              <FaGithub /> Sold Out
             </a>
           </div>
         </div>
         <div className="workItem">
           <h3 className="projectTitle">ColorPeek</h3>
           <p className="projectDesc">
-            A sleek tool to explore and check colors with precision!
+            A sleek and intuitive tool that allows designers, developers, and
+            creatives to explore, identify, and manage colors with precision.
+            Users can easily pick colors from images, explore color palettes,
+            and check color codes in various formats.
           </p>
           <div className="projectLinks">
             <a
@@ -135,13 +143,17 @@ const Works = () => {
           </div>
         </div>
         <div className="workItem">
-          <h3 className="projectTitle">Dad Joke Generator</h3>
+          <h3 className="projectTitle">LoanMate</h3>
           <p className="projectDesc">
-            A fun app that generates random dad jokes to brighten your day!
+            LoanMate is an easy-to-use loan calculator and management tool
+            designed to help users calculate loan repayments, compare different
+            loan options, and plan their finances efficiently. Whether you're
+            looking for personal loans.
+            decisions.
           </p>
           <div className="projectLinks">
             <a
-              href="https://dad-joke-generator-gilt.vercel.app/"
+              href="https://loan-calculator-phi.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"
@@ -149,7 +161,7 @@ const Works = () => {
               <FaExternalLinkAlt /> Live Demo
             </a>
             <a
-              href="https://github.com/lukmanuthmanabubakr/Dad-joke-generator"
+              href="https://github.com/lukmanuthmanabubakr/loan-calculator"
               target="_blank"
               rel="noopener noreferrer"
               className="projectLink"

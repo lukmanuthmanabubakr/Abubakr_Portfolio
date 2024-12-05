@@ -42,7 +42,7 @@ const Intro = () => {
         <span className='hello'>Hello</span>
         <span className='introText'>I'm <span className='introName'>Abubakr</span> <br/> </span>
         <span className='typewriter'>!{displayedText}</span>
-        <p className='introPara'>I'm a passionate Web Developer, Full stack Developer with a keen <br /> eye for design and a drive for creating seamless user experiences.</p>
+        <p className='introPara'>I am an experienced and passionate Full Stack Web Developer and freelancer, with a strong eye for design and a commitment to crafting seamless user experiences. While I enjoy freelancing, I am open to working with a company where I can contribute my skills and collaborate with a dynamic team to build impactful projects.</p>
         <span>
           <a href='https://docs.google.com/document/d/1UENFN_VS66KcIErJc5VdYknG7RGCv-U0XO-gIhYKXpI/edit?usp=sharing' target="_blank" className='btns'><FaArrowRight size={20}/>
           Hire  me</a>
