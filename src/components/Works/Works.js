@@ -11,7 +11,7 @@ const Works = () => {
       </p>
       <div className="workItems">
         <div className="workItem">
-          <h3 className="projectTitle">Greenwoodsy</h3>
+          <h3 className="projectTitle">Greenwood</h3>
           <p className="projectDesc">
             Whether you're a beginner or an experienced investor, we offer the
             tools and resources to help you grow your wealth efficiently and
